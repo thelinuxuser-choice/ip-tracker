@@ -28,7 +28,7 @@ python3 ip-tracker.py
 ```
 ## windows
 <p align="center">
-  <img src="/assets/">
+  <img src="/assets/windows.png">
 </p>
 
 ## Support & Contributions
