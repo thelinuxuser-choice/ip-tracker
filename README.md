@@ -2,7 +2,7 @@
 python3 ip tracker with lot of informations
 you can get all of information about your ip and scanning ip by this tool
 Please ⭐️ this repository if this project helped you!
-![trial](/assets/)
+![trial](/assets/iptracker.gif)
 
 
 ## Git Installation
