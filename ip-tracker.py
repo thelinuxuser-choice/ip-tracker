@@ -130,7 +130,8 @@ def prRed(skk): print("\033[91m {}\033[00m" .format(skk))
 prGreen(" SELECT NO 1 TO GET DETAILS ABOUT YOUR IP  ")
 prGreen(" SELECT NO 2 TO TRACK AND GET DETAILS ABOUT IP  ")
 prGreen(" SELECT ANY KEY TO EXIT THE SCRIPT  ")
-option = input(" 1 OR 2 :")
+option = input(''' ┌─[ ip-tracker@thelinuxuser-choice ]─[~]
+ └──╼ # ''')
 
 
 
