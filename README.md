@@ -34,7 +34,7 @@ python3 ip-tracker.py
 <p align="center">
   <img src="/assets/windows.png">
 </p>
-## output : tracking computer ip
+## Support & Contributions
 ```
                                                                                            
                                 .-.
@@ -51,19 +51,8 @@ python3 ip-tracker.py
                            choice      _/       \    Please add star if you are
                                       (   __.-._/     enjoying this it will
                                        '-'          help me to create another tools
-
-█████████████████████████████████████
-███ip-tracker by subodha prabash ████
-█████████████████████████████████████
-  SELECT NO 1 TO GET DETAILS ABOUT YOUR IP  
-  SELECT NO 2 TO TRACK AND GET DETAILS ABOUT IP  
-  SELECT ANY KEY TO EXIT THE SCRIPT  
- ┌─[ ip-tracker@thelinuxuser-choice ]─[~]
- └──╼ # 1
- {'ip': '35.240.133.24', 'version': 'IPv4', 'city': 'Singapore', 'region': None, 'region_code': None, 'country': 'SG', 'country_name': 'Singapore', 'country_code': 'SG', 'country_code_iso3': 'SGP', 'country_capital': 'Singapore', 'country_tld': '.sg', 'continent_code': 'AS', 'in_eu': False, 'postal': '18', 'latitude': 1.3029, 'longitude': 103.857, 'timezone': 'Asia/Singapore', 'utc_offset': '+0800', 'country_calling_code': '+65', 'currency': 'SGD', 'currency_name': 'Dollar', 'languages': 'cmn,en-SG,ms-SG,ta-
-SG,zh-SG', 'country_area': 692.7, 'country_population': 5638676.0, 'asn': 'AS15169', 'org': 'GOOGLE'}
 ```
 
-## Support & Contributions
+
 - Please ⭐️ this repository if this project helped you!
 - Contributions of any kind welcome!
